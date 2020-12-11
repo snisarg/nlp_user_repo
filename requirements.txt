@@ -1,0 +1,3 @@
+fairseq
+hydra
+svcca @ git+http://github.com/snisarg/nlp_tasks.git#egg=nlp-tasks
