@@ -1,3 +1,4 @@
-fairseq
 hydra
-svcca @ git+http://github.com/snisarg/nlp_tasks.git#egg=nlp-tasks
+svcca @ git+http://github.com/snisarg/hydra-text.git#egg=hydra-text
+svcca @ git+http://github.com/snisarg/nlp_tasks.git#egg=nlp_tasks
+svcca @ git+http://github.com/pytorch/fairseq.git#egg=fairseq
