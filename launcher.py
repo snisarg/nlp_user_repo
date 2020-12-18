@@ -5,6 +5,8 @@ from omegaconf import OmegaConf
 from nlp_tasks import Config
 from fairseq.dataclass.initialize import hydra_init
 
+import my_app
+
 
 hydra_init()
 

@@ -2,4 +2,4 @@ defaults:
   - task: task
   - trainer: trainer
   - task/model: roberta_model
-  - task/optim: adam
+  - optimizer@task.optim: adam
